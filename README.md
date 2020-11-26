@@ -1,1 +1,1 @@
-Udacity Android Developer Nanodegree - Baking App
+Udacity Android Developer Nanodegree Sample - Baking App
